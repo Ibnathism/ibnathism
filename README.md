@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-:hatched_chick: I'm Muntaka <br>
-:information_desk_person: I'm a final year undergrad student <br>
-:computer: I also work part-time as Junior Software Developer <br>
-:blue_heart: I love Front End Web Development, specifically React and Next.js <br>
-
-![Ibnathism's github stats](https://github-readme-stats.vercel.app/api?username=ibnathism&theme=tokyonight&show_icons=true&hide=prs,issues&count_private=true&include_all_commits=true)
+![Ibnathism's github stats](https://github-readme-stats.vercel.app/api?username=ibnathism&theme=tokyonight&show_icons=true&hide=prs,issues&count_private=true&include_all_commits=true&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnathism&theme=tokyonight&layout=compact&exclude_repo=muslimpro,artificial-intelligence,compiler,LaTeX&langs_count=4)
 
 <!--
