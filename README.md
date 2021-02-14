@@ -5,7 +5,7 @@
 :computer: I also work part-time as Junior Software Developer <br>
 :blue_heart: I love Front End Web Development, specifically React and Next.js <br>
 
-![Ibnathism's github stats](https://github-readme-stats.vercel.app/api?username=ibnathism&theme=dark&show_icons=true)
+![Ibnathism's github stats](https://github-readme-stats.vercel.app/api?username=ibnathism&theme=tokyonight&show_icons=true&hide=prs,issues&count_private=true&include_all_commits=true)
 
 <!--
 **Ibnathism/ibnathism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
