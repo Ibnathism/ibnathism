@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 
-![Ibnathism's github stats](https://github-readme-stats.vercel.app/api?username=ibnathism&theme=tokyonight&show_icons=true&hide=prs,issues&count_private=true&include_all_commits=true&hide_rank=true)
+![Ibnathism's github stats](https://github-readme-stats.vercel.app/api?username=ibnathism&theme=tokyonight&show_icons=true&h&count_private=true&include_all_commits=true&hide_rank=true)
 
 <!--
 **Ibnathism/ibnathism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
