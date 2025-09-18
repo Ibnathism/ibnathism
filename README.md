@@ -18,13 +18,6 @@ My current focus is on leveraging eBPF for application-level metric collection, 
 
 ---
 
-## 🚀 Featured Project
-
-### [eBPF-based Application-level Metric Collector](https://github.com/Ibnathism/strace_analysis_for_tritonserver)
-> A toolkit leveraging eBPF to trace and collect kernel and application metrics for system management runtimes—empowering dynamic power management and fine-grained QoS.
-
----
-
 ## 📚 Current & Future Work
 
 - Tracing application and kernel metrics with eBPF for runtime analysis  
